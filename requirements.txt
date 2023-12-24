@@ -3,5 +3,5 @@ streamlit-chat==0.0.2.2
 streamlit-space==0.1.5
 pandas==1.5.3
 matplotlib==3.7.0
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1675642767933/work
+numpy==1.24.2
 scikit-learn==1.2.1
